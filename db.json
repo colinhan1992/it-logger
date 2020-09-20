@@ -8,18 +8,11 @@
       "id": 5
     },
     {
-      "message": "Reimaged workstation 003",
+      "id": 7,
+      "message": "rewwqrqwef",
       "attention": false,
       "tech": "John Doe",
-      "date": "2020-09-20T22:37:15.786Z",
-      "id": 6
-    },
-    {
-      "message": "HD failure in workstation 008",
-      "attention": true,
-      "tech": "Sara Wilsom",
-      "date": "2020-09-20T22:37:32.439Z",
-      "id": 7
+      "date": "2020-09-20T23:20:08.075Z"
     }
   ],
   "techs": [

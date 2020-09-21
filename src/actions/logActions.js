@@ -82,7 +82,7 @@ export const updateLog = log => async dispatch => {
     });
 
     const data = await res.json();
-    dispatch({ type: UPDATE_LOG, payload: log });
+    dispatch({ type: UPDATE_LOG, payload: data });
     getLogs();
   } catch (error) {
     dispatch({ type: LOGS_ERROR, payload: error.response.statusText });
